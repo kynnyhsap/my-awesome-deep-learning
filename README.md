@@ -11,4 +11,4 @@
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme)
 
 ## My list of resources
-- 
+- `📖 book` [Dive into Deep Learning](https://d2l.ai/index.html) 
