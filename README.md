@@ -12,3 +12,4 @@
 
 ## My list of resources
 - `📖 book` [Dive into Deep Learning](https://d2l.ai/index.html) 
+- [Reddit Thread](https://www.reddit.com/r/MachineLearning/comments/8vmuet/d_what_deep_learning_papers_should_i_implement_to/) *What deep learning papers should I implement to learn?*
